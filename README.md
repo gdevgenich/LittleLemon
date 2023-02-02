@@ -1,2 +1,2 @@
 # LittleLemon
-Courcera project
+Courыera project
